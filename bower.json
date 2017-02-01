@@ -1,0 +1,23 @@
+{
+  "name": "vue-default-value",
+  "description": "Vue.js Directive to set a default value in the value attribute that will not affect the model state.",
+  "main": "dist/vue-default-value.js",
+  "authors": [
+    "Stanislav Termosa <termosa.stanislav@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "vuejs",
+    "vue",
+    "directive",
+    "default",
+    "value"
+  ],
+  "homepage": "https://github.com/termosa/vue-default-value",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "package.json",
+    "webpack.config.js"
+  ]
+}
