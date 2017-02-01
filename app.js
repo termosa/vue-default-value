@@ -15,6 +15,14 @@ new Vue({
     model1: null,
     model2: null,
     model3: null,
-    value: 'default-'
+    value: 'default'
+  },
+  methods: {
+    def: function() {
+      this.value = 'new default';
+    },
+    mod: function() {
+      this.model1 = this.model2 = this.model3 = 'new model';
+    }
   }
 });
