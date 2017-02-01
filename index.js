@@ -5,10 +5,7 @@ const VueDefaultValue = {
     if (this.installed) return;
     this.installed = true;
     Vue.directive('default-value', directive);
-  },
-  apply: function() {
-    console.warn('lock');
   }
 };
 
-module.exports = VueDefaultValue;
+export default VueDefaultValue;
