@@ -1,6 +1,6 @@
 # vue-default-value
 
-Vue.js Directive to set a default value in the value attribute that will not affect the model state.
+A Vue.js Directive to set a default value for editable elements with no affect to the model state.
 
 [![NPM version](https://img.shields.io/npm/v/vue-default-value.svg?style=flat-square)](https://www.npmjs.com/package/vue-default-value)
 ![Bower version](https://img.shields.io/bower/v/vue-default-value.svg?style=flat-square)
