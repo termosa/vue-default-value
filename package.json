@@ -1,6 +1,6 @@
 {
   "name": "vue-default-value",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Vue.js Directive to set a default value in the value attribute that will not affect the model state.",
   "main": "index.js",
   "scripts": {
